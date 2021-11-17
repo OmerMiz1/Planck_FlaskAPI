@@ -1,8 +1,7 @@
 Prerequisites:
     1. Make sure you have "Flask" module
         (use "python -m pip install Flask")
-    2. make sure you have "lxml.html" module
-    3. Set enviromental variables:
+    2. Set enviromental variables:
         Windows: "set FLASK_APP=app.py"
         Linux: "export FLASK_APP=app.py"
 
